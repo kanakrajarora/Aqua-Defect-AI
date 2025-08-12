@@ -90,4 +90,3 @@ Each defect type has its own fine-tuned model for high accuracy.
 
 ##  License
 This project is licensed under the MIT License.
-```
