@@ -27,7 +27,7 @@ use_case_map = {
     "Blow Hole due to Contamination": detect_blowhole_contamination
 }
 
-st.title("Sintex Defect and Error Detection Demo")
+st.title("AquaDefect AI")
 
 # Upload an image
 uploaded_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
